@@ -51,6 +51,14 @@ If you see your branch you create in the previous step, congratulations !!
 
 Now, you can write files. Enjoy!
 
+First push:
+```bash
+git add .
+git commit -m "abc"
+git push --set-upstream origin nauxqouh
+```
+*Note: remove `--set-upstream` in the next time.*
+
 Remember to check the correctness of your own branch before push code on github repo. Later, you must to pull code before push it.
 
 
