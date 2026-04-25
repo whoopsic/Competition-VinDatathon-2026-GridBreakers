@@ -24,6 +24,34 @@ Competition-VinDatathon-2026-GridBreakers/
 └── README.md                       # You are here
 ```
 
+## Setup for working together
+
+```bash
+git clone https://github.com/whoopsic/Competition-VinDatathon-2026-GridBreakers.git
+```
+
+Create your own branch for later changes in your working:
+```bash
+cd vindatathon26
+git checkout -b <new_branch> main
+```
+
+*Note: Fill your own name into <new_branch> place. Ex: `git checkout -b nauxqouh main`*
+
+```bash
+git branch
+```
+If you see your branch you create in the previous step, congratulations !!
+
+*Expectation: *
+```bash
+  main
+* nauxqouh
+```
+
+Now, you can write files. Enjoy!
+
+Remember to check the correctness of your own branch before push code on github repo. Later, you must to pull code before push it.
 
 
 
