@@ -54,11 +54,11 @@ pip install pandas numpy matplotlib seaborn lightgbm shap
 
 3. Prepare the Data:
 
-Place the competition's raw CSV files into the `data/raw/` directory.
+    Place the competition's raw CSV files into the `data/raw/` directory.
 
 4. Run the Pipeline:
 
-Navigate to the `notebooks/` folder and execute the Jupyter Notebooks in sequential order.
+    Navigate to the `notebooks/` folder and execute the Jupyter Notebooks in sequential order.
 
 
 
