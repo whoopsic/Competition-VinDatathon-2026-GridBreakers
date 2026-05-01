@@ -32,7 +32,7 @@ Competition-VinDatathon-2026-GridBreakers/
 │   │   └── submission.csv          # part 03 submitted result
 │
 ├── database/                       # SQL scripts
-├── reports/                        # LaTeX source code for the final 4-page PDF report
+├── reports/                        # PDF report
 ├── .gitignore
 └── README.md                       # You are here
 ```
@@ -54,11 +54,11 @@ pip install pandas numpy matplotlib seaborn lightgbm shap
 
 **3. Prepare the Data:**
 
-    Place the competition's raw CSV files into the `data/raw/` directory.
+Place the competition's raw CSV files into the `data/raw/` directory.
 
 **4. Run the Pipeline:**
 
-    Navigate to the `notebooks/` folder and execute the Jupyter Notebooks in sequential order.
+Navigate to the `notebooks/` folder and execute the Jupyter Notebooks in sequential order.
 
 
 
