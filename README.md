@@ -41,22 +41,22 @@ Competition-VinDatathon-2026-GridBreakers/
 
 To reproduce our results and evaluate the models locally, please follow the steps below:
 
-1. Clone the repository:
+**1. Clone the repository:**
 ```bash 
 git clone [https://github.com/whoopsic/Competition-VinDatathon-2026-GridBreakers.git](https://github.com/whoopsic/Competition-VinDatathon-2026-GridBreakers.git)
 cd Competition-VinDatathon-2026-GridBreakers
 ```
 
-2. Set up the environment:
+**2. Set up the environment:**
 ```bash
 pip install pandas numpy matplotlib seaborn lightgbm shap
 ```
 
-3. Prepare the Data:
+**3. Prepare the Data:**
 
     Place the competition's raw CSV files into the `data/raw/` directory.
 
-4. Run the Pipeline:
+**4. Run the Pipeline:**
 
     Navigate to the `notebooks/` folder and execute the Jupyter Notebooks in sequential order.
 
